@@ -57,7 +57,7 @@ class Quiz:
 
 q1 = Question("2+2=?", ["3","4","5","6"],"4")
 q2 = Question("Which is the most popular pl ?", ["C#", "Python", "Java"], "Python")
-q3 = Question("Which is the capital of Turkey ? ", ["Ankara", "İstanbul"], "Ankara")
+q3 = Question("What is the capital city of Turkey ? ", ["Ankara", "İstanbul"], "Ankara")
 my_quiz_list = [q1,q2,q3]
 
 
